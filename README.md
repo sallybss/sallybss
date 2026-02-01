@@ -1,6 +1,7 @@
 ## Hi, I'm Sali 👋
 
 🎓 Professional Bachelor’s in Web Development
+
 💻 Frontend Developer & UX/UI Designer at Ownlytic  
 
 ✨ Passionate about intuitiive design, usability and building practical web solutions.
