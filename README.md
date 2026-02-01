@@ -8,13 +8,13 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 HTML • CSS/SCSS • JavaScript • TypeScript • Vue  
 PHP • MySQL • SQL • Git • Figma
 
 ---
 
-## 🚀 Favorite Projects:
+## Favorite Projects:
 
 ### •  Picturesque
 Photography social platform built with Vanilla PHP + MySQL  
