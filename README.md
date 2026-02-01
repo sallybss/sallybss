@@ -18,15 +18,18 @@ PHP • MySQL • SQL • Git • Figma
 
 ### •  Picturesque
 Photography social platform built with Vanilla PHP + MySQL  
+
 -> https://github.com/sallybss/picturesque
 
 ### • TypeScript To-Do App
 Task manager with CRUD + local storage
+
 -> https://github.com/sallybss/TypeScript-App
 
 ### •  MyGal
 Collaborative image gallery built with Vue  
 Component-based architecture, dynamic rendering, teamwork & Git workflow 
+
 -> https://github.com/sallybss/MyGal
 
 ---
