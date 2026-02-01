@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Sali 👋
 
-<!--
-**sallybss/sallybss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Professional Bachelor’s in Web Development
+💻 Frontend Developer & UX/UI Designer at Ownlytic  
 
-Here are some ideas to get you started:
+✨ Passionate about intuitiive design, usability and building practical web solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+HTML • CSS/SCSS • JavaScript • TypeScript • Vue  
+PHP • MySQL • SQL • Git • Figma
+
+---
+
+## 🚀 Favorite Projects:
+
+### •  Picturesque
+Photography social platform built with Vanilla PHP + MySQL  
+-> https://github.com/sallybss/picturesque
+
+### • TypeScript To-Do App
+Task manager with CRUD + local storage
+-> https://github.com/sallybss/TypeScript-App
+
+### •  MyGal
+Collaborative image gallery built with Vue  
+Component-based architecture, dynamic rendering, teamwork & Git workflow 
+-> https://github.com/sallybss/MyGal
+
+---
+
+## Contact: 
+LinkedIn: https://www.linkedin.com/in/sali-bseso-452735293/
