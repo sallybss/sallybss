@@ -27,10 +27,6 @@ Task manager with CRUD + local storage
 
 -> https://github.com/sallybss/TypeScript-App
 
-
--> https://github.com/sallybss/MyGal
-
-
 ---
 
 ## Contact: 
