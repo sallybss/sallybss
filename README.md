@@ -28,10 +28,6 @@ Task manager with CRUD + local storage
 -> https://github.com/sallybss/TypeScript-App
 
 
-### •  MyGal
-Collaborative image gallery built with Vue  
-Component-based architecture, dynamic rendering, teamwork & Git workflow 
-
 -> https://github.com/sallybss/MyGal
 
 
